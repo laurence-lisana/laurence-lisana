@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @laurence-lisana
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning  software development
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m  a junior software developer
+- 💞️ I’m looking to colaborate with experienced software developers to boost my experience levels.
 - 📫 How to reach me lisanalaurence@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:  coding a day keeps the bugs away 'lol'
 
 <!---
 laurence-lisana/laurence-lisana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
